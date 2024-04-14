@@ -1,0 +1,9 @@
+payload:
+  - 'd.kstore.space'
+  - 'tvbox.cainisi.cf'
+  - 'drpy.site'
+  - 'getproxy.bzpl.tech'
+  - 'adzhp.net'
+  - 'cdn.myhkw.com'
+  - 'static.runoob.com'
+  - 'adzhp.net'
