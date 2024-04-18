@@ -7,5 +7,5 @@ payload:
   - 'cdn.myhkw.com'
   - 'static.runoob.com'
   - 'adzhp.net'
-  - '+gismeteo.net'
-  - '+jianpianupdate.com'
+  - '+.gismeteo.net'
+  - '+.jianpianupdate.com'
