@@ -1,3 +1,5 @@
 payload:
   - '+argotunnel.com'
   - '+heheda.vip'
+  - 'api.saasexch.io'
+  - '+.binance.com'
