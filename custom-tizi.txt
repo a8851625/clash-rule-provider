@@ -9,3 +9,4 @@ payload:
   - 'adzhp.net'
   - '+.gismeteo.net'
   - '+.jianpianupdate.com'
+  - 'xn--ngstr-lra8j.com'
