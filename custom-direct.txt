@@ -1,3 +1,4 @@
 payload:
   - '+argotunnel.com'
   - '+heheda.vip'
+  - '+trafficmanager.net'
