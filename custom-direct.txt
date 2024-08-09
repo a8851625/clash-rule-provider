@@ -4,4 +4,3 @@ payload:
   - '+trafficmanager.net'
   - 'api.saasexch.io'
   - '+.binance.com'
-  - 'stream1.freetv.fun'
