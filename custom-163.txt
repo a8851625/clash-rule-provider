@@ -7,3 +7,4 @@ payload:
   - '+.music.163.com'
   - '+.163jiasu.com'
   - '+.music.163.com.163jiasu.com'
+  - '+.music.126.net'
