@@ -3,4 +3,6 @@ payload:
   - '+heheda.vip'
   - '+trafficmanager.net'
   - 'api.saasexch.io'
-  - '+.binance.com'
+  - 'api.binance.com'
+  - 'fapi.binance.com'
+  - '+binance.com'
