@@ -1,0 +1,3 @@
+api.binance.com
+fapi.binance.com
++binance.com

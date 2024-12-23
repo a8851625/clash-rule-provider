@@ -2,6 +2,3 @@
 +heheda.vip
 +trafficmanager.net
 api.saasexch.io
-api.binance.com
-fapi.binance.com
-+binance.com
