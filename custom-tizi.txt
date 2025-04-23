@@ -10,4 +10,3 @@ payload:
   - '+.gismeteo.net'
   - '+.jianpianupdate.com'
   - 'xn--ngstr-lra8j.com'
-  - '+.heheda.vip'
