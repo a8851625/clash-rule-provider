@@ -2,3 +2,5 @@
 +heheda.vip
 +trafficmanager.net
 api.saasexch.io
+ident.me
+ifconfig.co
