@@ -1,3 +1,4 @@
+*.tailscale.com
 +argotunnel.com
 +heheda.vip
 +tailscale.com
