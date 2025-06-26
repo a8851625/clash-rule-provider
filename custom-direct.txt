@@ -1,5 +1,6 @@
 +argotunnel.com
 +heheda.vip
++tailscale.com
 +trafficmanager.net
 api.saasexch.io
 ident.me
