@@ -1,3 +1,4 @@
-api.binance.com
-fapi.binance.com
-+binance.com
+payload:
+  - 'api.binance.com'
+  - 'fapi.binance.com'
+  - '+binance.com'
