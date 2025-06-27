@@ -1,8 +1,9 @@
-*.tailscale.com
-+argotunnel.com
-+heheda.vip
-+tailscale.com
-+trafficmanager.net
-api.saasexch.io
-ident.me
-ifconfig.co
+payload:
+  - '*.tailscale.com'
+  - '+argotunnel.com'
+  - '+heheda.vip'
+  - '+tailscale.com'
+  - '+trafficmanager.net'
+  - 'api.saasexch.io'
+  - 'ident.me'
+  - 'ifconfig.co'
