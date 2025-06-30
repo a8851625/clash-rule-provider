@@ -7,3 +7,4 @@ payload:
   - 'api.saasexch.io'
   - 'ident.me'
   - 'ifconfig.co'
+  - '*.oplist.org'
