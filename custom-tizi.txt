@@ -1,4 +1,5 @@
 payload:
+  - 'live.fanmingming.com'
   - 'd.kstore.space'
   - 'tvbox.cainisi.cf'
   - 'drpy.site'
