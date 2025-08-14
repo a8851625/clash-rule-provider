@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "xhh66.top",
+        "heheda.vip",
+        "tailscale.com",
+        "stun.syncthing.net",
+        "openrouter.ai",
+        "targon.com",
+        "vercel.sh"
+      ]
+    }
+  ]
+}
