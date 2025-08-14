@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "d.kstore.space",
+        "tvbox.cainisi.cf",
+        "drpy.site",
+        "getproxy.bzpl.tech",
+        "adzhp.net",
+        "cdn.myhkw.com",
+        "static.runoob.com",
+        "xn--ngstr-lra8j.com"
+      ],
+      "domain_suffix": [
+        "gismeteo.net",
+        "jianpianupdate.com"
+      ]
+    }
+  ]
+}
